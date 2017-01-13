@@ -380,6 +380,11 @@ GEM
       kgio (~> 2.6)
       raindrops (~> 0.7)
     uniform_notifier (1.10.0)
+    omniauth-gitlab (1.0.2)
+      omniauth (~> 1.0)
+      omniauth-oauth2 (~> 1.0)
+
+
 
 PLATFORMS
   ruby
@@ -434,6 +439,7 @@ DEPENDENCIES
   omniauth
   omniauth-facebook
   omniauth-github-discourse
+  omniauth-gitlab (= 1.0.2)
   omniauth-google-oauth2
   omniauth-instagram
   omniauth-oauth2

@@ -96,7 +96,7 @@ gem 'rake'
 
 gem 'rest-client'
 gem 'rinku'
-gem 'sanitize'
+gem 'sanitize' 
 gem 'sass'
 gem 'sass-rails'
 gem 'sidekiq'
