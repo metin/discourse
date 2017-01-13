@@ -84,6 +84,7 @@ gem 'omniauth-instagram'
 gem 'omniauth-github-discourse', require: 'omniauth-github'
 
 gem 'omniauth-oauth2', require: false
+gem 'omniauth-gitlab', '1.0.2'
 
 gem 'omniauth-google-oauth2'
 gem 'oj'
