@@ -1165,7 +1165,7 @@ tr_TR:
     incorrect_username_email_or_password: "Yanlış kullanıcı adı, e-posta ya da parola"
     wait_approval: "Kayıt olduğunuz için teşekkürler. Hesabınız onaylandığında sizi haberdar edeceğiz."
     active: "Hesabınız etkinleştirildi ve kullanıma hazır."
-    activate_email: "<p>Az kaldı! Hesabinis olusturuldi. Simdi giris yapabilirsiniz.</p>"
+    activate_email: "<p>Hesabınız etkinleştirildi ve kullanıma hazır. Şimdi giriş yapabilirsiniz.</p>"
     not_activated: "Henüz giriş yapamazsınız. Size bir etkinleştirme e-postası gönderdik. Hesabınızı etkinleştirmek için lütfen e-postadaki yönlendirmeleri takip edin."
     not_allowed_from_ip_address: "Bu IP adresinden %{username} kullanıcı adı ile giriş yapamazsınız."
     admin_not_allowed_from_ip_address: "Bu IP adresinden admin olarak giriş yapamazsınız."
